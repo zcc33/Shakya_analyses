@@ -1,4 +1,4 @@
-This repository is a collection of metagenomic protein research. 
+This repository is a collection of metagenomic protein research. Most of the data files are not included, due to size limitations. Feel free to reach out for further details.
 
 * `hmm_mutate` contains a Python program that simulates protein mutation according to the probability matrix of a trained Hidden Markov Model. 
 
